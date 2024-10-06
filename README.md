@@ -1,4 +1,5 @@
-![Header](https://github.com/SyedAhmedii/SyedAhmedii/blob/main/github-header-image.png)
+<img src="https://github.com/SyedAhmedii/SyedAhmedii/blob/main/github-header-image.png" alt="Banner" width="1000"/>
+
 <h1 align="center">Hi 👋, I'm Syed Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 

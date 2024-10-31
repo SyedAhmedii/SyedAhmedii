@@ -11,6 +11,7 @@
 - **Backend Development** (getting comfortable with Node.js and Express)
 - **Improving Web Performance** and making sites faster
 - **Building Full-Stack Apps** to enhance my overall development skills
+- 💻 This is my personal portfolio where I showcase all the projects, It’s clean, minimal, and fully responsive! https://portfolio-website-sa.web.app/ 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAhmedii](https://github.com/SyedAhmedii)
 
